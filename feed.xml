@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:54:30 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-07-09 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-07-09.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-07-09.html</guid>
+      <description>预采集脚本曾报错：`Remote end closed connection without response`。本次生成时已重新读取 `/tmp/stock-monitor-xueqiu-evidence.json`，该文件状态为 `ok`，并补充网页新闻/行情搜索；Yahoo Finance 查询触发 429，Stooq 对相关代码返回 404，因此最终行情以雪球证据文件和公开网页搜索结果交叉使用。；单日层面：GOOG -1.35%，平安银行 +1.24%，宝钢股份 0.00%，中国神华 +1.27%。均未见单日极端异动，但中国神华、宝钢股份、平安银行相对 52 周高点仍有明显回撤，需要继续跟踪多日趋势。；距近期/52周高点回…</description>
+      <pubDate>2026-07-09T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-07-08 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-07-08.html</link>
