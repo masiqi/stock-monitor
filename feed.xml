@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:53:50 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-07-12 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-07-12.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-07-12.html</guid>
+      <description>异动预警：7月12日为周日；本报告复盘最近一个交易日7月10日。四只持仓当日单日波动均未达到本监控的低档预警线（绝对涨跌≥1%）：GOOG -0.34%、平安银行 -0.38%、宝钢股份 +0.37%、中国神华 -0.21%。但行情预采集接口报错“Remote end closed connection without response”；已改以雪球证据文件和公开行情搜索核对收盘价。因未取得四股连续日线序列，3/5/10/20日涨跌、距近期高点回撤均无法可靠计算，不能以“未触发多日预警”替代。；风险：A股7月10日指数大幅震荡，沪指-1.00%、深成指-2.29%、创业板指-4.37%、科创50-5.53%，但个股整体涨多跌少。持…</description>
+      <pubDate>2026-07-12T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-07-11 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-07-11.html</link>
