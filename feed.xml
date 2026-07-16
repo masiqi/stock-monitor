@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 15 Jul 2026 02:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:53:40 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-07-16 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-07-16.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-07-16.html</guid>
+      <description>异动预警：7月15日行情数据显示，GOOG 收于/最新报 370.21 美元，上涨 3.60%；宝钢股份报 5.74 元，上涨 2.50%，均达到本日报的显著单日上涨关注级别。平安银行上涨 1.40%，中国神华上涨 0.62%，未见显著异动。；风险：行情预采集脚本报错 `Remote end closed connection without response`；本次已改读雪球证据文件并尝试其他公开行情源，但多日历史行情接口遭遇限流，无法严谨计算四只股票的 3日/5日涨跌和统一的近期高点回撤。不能将缺失数据补写为结论。；机会：GOOG 的上涨发生在 Gemini、Google Cloud、AI Agent 产品持续推进的背景下；宝…</description>
+      <pubDate>2026-07-16T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-07-15 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-07-15.html</link>
