@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:53:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:54:06 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-07-26 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-07-26.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-07-26.html</guid>
+      <description>异动预警：5 只股票均触发预警。最突出的下行压力来自 GOOG：7 月 24 日收于 319.09 美元，虽当日微涨 0.24%，但 3/5/10 日分别下跌 7.83%/7.81%/10.12%，较 20 日高点 374.35 美元回撤 14.76%。华宝国际较 20 日高点回撤 11.04%，同样需关注。A 股三只持仓近 10 日均为上涨状态，其中中国神华 +11.44%。；风险：GOOG 的短中期价格回撤已经超过单日波动范围，但本次采集未获得可核验的单一公司突发事件，不能把价格下跌直接归因于 Gemini、Cloud、反垄断或人员变动。中国神华与华宝国际均涉及高股息或现金分配预期，需继续核对除权除息、分红及前复权/不复权口径…</description>
+      <pubDate>2026-07-26T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-07-25 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-07-25.html</link>
