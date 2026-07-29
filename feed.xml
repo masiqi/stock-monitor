@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:55:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:53:37 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-07-29 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-07-29.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-07-29.html</guid>
+      <description>异动预警：5 只持仓均被预采集脚本标为高预警，但触发原因并不相同。GOOG 主要是近 10 日回撤 -6.92%、距 20 日高点回撤 -11.15%；华宝国际日跌 -1.67%、距 20 日高点回撤 -11.94%。平安银行、宝钢股份、中国神华则处于近 20 日相对高位附近，需关注趋势延续性而非单日涨幅本身。；风险：GOOG 尚未收复此前回撤，且本次未采集到足以将 7 月 28 日上涨与 Gemini、Cloud、DeepMind、反垄断或人员变动直接对应的可核验事件；华宝国际成交与换手偏低，且港交所公告、回购、除权除息、南向资金等关键核验数据本轮不足，价格波动的解释可信度有限。；机会：平安银行、宝钢股份、中国神华在 7 月 2…</description>
+      <pubDate>2026-07-29T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-07-28 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-07-28.html</link>
