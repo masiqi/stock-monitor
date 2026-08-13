@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:53:51 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-08-13 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-08-13.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-08-13.html</guid>
+      <description>异动预警：行情预采集接口报 `HTTP 403: Forbidden`；本次自行尝试 Yahoo Finance 历史行情接口亦遇到 `HTTP 429: Too Many Requests`。因此，不能把缺失的实时/完整历史数据补写为事实。已从可访问页面核对到：平安银行 8 月 12 日收于 11.25 元、较前日 -0.09%；宝钢股份可访问报价页显示 5.78 元、较前收 +0.35%。两者均未见显著单日异动。中国神华、GOOG、华宝国际未取得足以严格核对 8 月 12 日完整收盘序列的数据，暂不对其单日及多日异动下定量结论。；风险：GOOG 的核心矛盾仍是 AI/云业务扩张与资本开支、现金流和监管约束之间的平衡；中国神华需…</description>
+      <pubDate>2026-08-13T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-08-12 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-08-12.html</link>
