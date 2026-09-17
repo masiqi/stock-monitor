@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:55:56 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-09-17 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-09-17.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-09-17.html</guid>
+      <description>异动预警：预采集脚本因 HTTP 403 失败；本次自行改用公开网页行情与公告交叉核验。GOOG 最近已核验交易日（9月15日）收于 341.43 美元、跌 1.24%，相对8月上旬约 360 美元区间仍有回撤；华宝国际 9月16日盘中波动区间为 3.22—3.485 港元，振幅较大，需重点关注。平安银行、宝钢股份、中国神华暂未取得与9月16日完全一致的、可交叉验证的收盘序列，不能据此宣称“无异动”。；风险：煤炭现货价格连续上涨后出现边际走弱迹象，港口库存上升；对中国神华的短期市场反馈存在压力。GOOG 的反垄断风险虽较“拆分”情景明显缓和，但数据共享等补救措施仍在执行层面。华宝国际需继续核验中报细节、控股结构与监管事项，且不能把…</description>
+      <pubDate>2026-09-17T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-09-16 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-09-16.html</link>
