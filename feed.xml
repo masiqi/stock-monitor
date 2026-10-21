@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:55:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:54:47 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-10-21 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-10-21.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-10-21.html</guid>
+      <description>异动预警：预采集规则将中国神华、华宝国际列为**高预警**。神华的重点是10个交易日累计上涨8.46%后的波动；华宝国际的重点是较20日高点回撤14.36%，尽管10月20日反弹1.56%。GOOG、平安银行、宝钢股份为低预警，并非没有变化。所有级别均沿用预采集脚本，**不是对下一交易日涨跌的预测**。；风险：华宝国际的回撤尚未找到可核验的单一触发事件；GOOG提供的最新收盘日是美国时间10月19日，比其余四只股票早一个交易日，不能把它称作10月20日收盘价。；机会：这里的“机会”仅指值得观察的业务或信息线索。中国神华已公告A股中期派息安排；宝钢11月主要内销产品基价维持不变；Alphabet仍需跟踪Gemini与Cloud的商业…</description>
+      <pubDate>2026-10-21T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-10-20 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-10-20.html</link>
