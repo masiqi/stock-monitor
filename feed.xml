@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:56:55 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-10-22 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-10-22.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-10-22.html</guid>
+      <description>异动预警：中国神华高预警，单日跌 3.96%；华宝国际高预警，单日涨 2.46%，但仍较 20 日高点低 12.25%。GOOG、宝钢股份为低预警；平安银行未见显著异动。预警等级来自预采集脚本，不代表投资评级。；风险：中国神华随煤炭板块明显回落，**10 月 21 日并非其除息日**；GOOG 在纳指上涨的交易日下跌；华宝国际的近期反弹尚未抹平此前回撤。；机会线索：OpenAI 与 Google Cloud 已宣布模型分销合作，但商业贡献尚待验证；华宝国际此前披露的印尼加热不燃烧烟弹业务收购，提供了后续经营跟踪点。两者都不能直接解释或保证股价走势。</description>
+      <pubDate>2026-10-22T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-10-21 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-10-21.html</link>
