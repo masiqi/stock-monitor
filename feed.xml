@@ -5,8 +5,15 @@
     <link>https://masiqi.github.io/stock-monitor/</link>
     <description>每日整理持仓股票社区声音，区分事实与观点/情绪，不构成投资建议。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:53:18 GMT</lastBuildDate>
     <atom:link href="https://masiqi.github.io/stock-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>📈 2026-11-20 每日持仓股票社区声音监控</title>
+      <link>https://masiqi.github.io/stock-monitor/daily/2026-11-20.html</link>
+      <guid isPermaLink="true">https://masiqi.github.io/stock-monitor/daily/2026-11-20.html</guid>
+      <description>**异动预警：**按预采集规则，GOOG、华宝国际为高预警；平安银行、宝钢股份、中国神华为中预警。预警同时考虑单日、多个交易日窗口及高点回撤，**不表示每只股票在11月19日都发生了显著单日异动**。；**风险：**GOOG五个交易日跌8.24%、距20日高点回撤16.13%；华宝国际五个交易日跌7.19%、回撤10.07%。两者11月19日下跌的直接触发因素均未核实。；**机会观察：**中国神华十个交易日涨6.34%；华宝国际11月19日有媒体报道股份回购。但涨势能否持续、回购能否改变供需，不能由这些信息直接推断。</description>
+      <pubDate>2026-11-20T08:50:00+08:00</pubDate>
+    </item>
     <item>
       <title>📈 2026-11-19 每日持仓股票社区声音监控</title>
       <link>https://masiqi.github.io/stock-monitor/daily/2026-11-19.html</link>
